@@ -1,22 +1,6 @@
-# 🌸 AI-Powered Early Detection and Lifestyle Recommendation System for PCOS & PCOD
 
-![AI Healthcare](https://img.shields.io/badge/Domain-AI%20Healthcare-purple?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/AI-Machine%20Learning-blue?style=for-the-badge)
-![Frontend](https://img.shields.io/badge/Frontend-React-orange?style=for-the-badge&logo=react)
-![Backend](https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge&logo=node.js)
-![Database](https://img.shields.io/badge/Database-MongoDB-brightgreen?style=for-the-badge&logo=mongodb)
-![Status](https://img.shields.io/badge/Project-Hackathon%20Project-pink?style=for-the-badge)
 
----
-
-## 🎥 Project Demo
-
-▶ **Watch the demo:**  
-https://youtu.be/qDjl8UE7Upo?si=LY__ghPlRhFxNEsO
-
----
-
-# 💡 Project Overview
+-# 💡 Project Overview
 
 Polycystic Ovary Syndrome (**PCOS**) and Polycystic Ovary Disorder (**PCOD**) are among the most common hormonal disorders affecting women worldwide.
 
@@ -202,31 +186,25 @@ npm run dev.
 ```
 ---
 
-## AI/ML Model Overview
 
-Input: Cycle history, BMI, lifestyle habits, symptoms<br>
-Algorithm Used: Logistic Regression, Random Forest, and ANN<br>
-Output: PCOS/PCOD risk probability (0–100%)<br>
-Dataset: Preprocessed dataset (public + synthetic anonymized data)<br>
-Evaluation Metrics: Accuracy, Precision, Recall, F1 Score<br>
 
 ---
-## 🏆 Final Year & Hackathon Project
+## 🏆 Hackathon Project
 
 Developed under the **Open Innovation Track** at **HackAura 2025**
 
-by **Team Auracoder 💜**
+by **Team CODEMAFIANS 💜**
 
 > *Empowering Women’s Health with AI & Data-Driven Insights*
 
 ---
 
-# 👩‍💻 Team Auracoder
+# 👩‍💻 Team codemafians
 
-- **Renu Kumari Prajapati**
-- **Arushi Thakur**
-- **Stuti Tiwari**
-- **Palchhin**
+- **moinuddin fazil**
+- **deepushree hp**
+- **ananya badkal**
+- **anfal**
 
 ----
 ---
